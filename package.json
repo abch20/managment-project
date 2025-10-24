@@ -1,0 +1,22 @@
+{
+  "name": "managment-projecet",
+  "version": "1.0.0",
+  "description": "a project managment application for beginners",
+  "keywords": [
+    "udemy",
+    "course",
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "license": "ISC",
+  "author": "CHELLOUCH Abdellah",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
