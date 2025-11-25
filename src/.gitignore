@@ -1,0 +1,7 @@
+node_module
+.env
+.prettierignore
+.prettierrc
+package-lock.json
+package.json
+.gitkeep

@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+console.log("Start of Backend Project");
+=======
 import dotenv from "dotenv";
 import connectDB from "./db/db_connection.js";
 import app from "./app.js"
@@ -17,3 +20,4 @@ connectDB()
     console.error("MongoDB connection error", err);
     process.exit(1);
   });
+>>>>>>> 01052ce (message 1)
